@@ -1,0 +1,88 @@
+{
+  "show_detail": true,
+  "options": {
+    "ServerAliveInterval": 30
+  },
+  "servers": [
+    {
+      "name": "host001",
+      "ip": "192.222.1.1",
+      "port": 22,
+      "user": "root",
+      "password": "donotuseroot!",
+      "method": "password"
+    },
+    {
+      "name": "host002",
+      "ip": "192.222.1.2",
+      "port": 22,
+      "user": "root",
+      "password": "donotuseroot!",
+      "method": "password"
+    },
+    {
+      "name": "host003",
+      "ip": "192.222.1.3",
+      "port": 22,
+      "user": "root",
+      "password": "donotuseroot!",
+      "method": "password"
+    },
+    {
+      "name": "host004",
+      "ip": "192.222.1.4",
+      "port": 22,
+      "user": "root",
+      "password": "donotuseroot!",
+      "method": "password"
+    },
+    {
+      "name": "host005",
+      "ip": "192.222.1.5",
+      "port": 22,
+      "user": "root",
+      "password": "donotuseroot!",
+      "method": "password"
+    },
+    {
+      "name": "host006",
+      "ip": "192.222.1.6",
+      "port": 22,
+      "user": "root",
+      "password": "donotuseroot!",
+      "method": "password"
+    },
+    {
+      "name": "host007",
+      "ip": "192.222.1.7",
+      "port": 22,
+      "user": "root",
+      "password": "donotuseroot!",
+      "method": "password"
+    },
+    {
+      "name": "host008",
+      "ip": "192.222.1.8",
+      "port": 22,
+      "user": "root",
+      "password": "donotuseroot!",
+      "method": "password"
+    },
+    {
+      "name": "host009",
+      "ip": "192.222.1.9",
+      "port": 22,
+      "user": "root",
+      "password": "donotuseroot!",
+      "method": "password"
+    },
+    {
+      "name": "host010",
+      "ip": "192.222.1.10",
+      "port": 22,
+      "user": "root",
+      "password": "donotuseroot!",
+      "method": "password"
+    }
+  ]
+}
