@@ -84,8 +84,11 @@ function autossh(){
         sed -i '/assh=/d' ~/.bashrc
         source ~/.bashrc
         ;;
+        config)
+        vi $dir/config.json
+        ;;
         *)
-        echo "support actions: enable disable"
+        echo "support actions: enable disable config"
     esac
 }
 
